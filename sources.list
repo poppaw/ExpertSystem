@@ -1,0 +1,13 @@
+src/poppaw/Main.java
+src/poppaw/Value.java
+src/poppaw/XMLParser.java
+src/poppaw/Question.java
+src/poppaw/SingleValue.java
+src/poppaw/FactRepository.java
+src/poppaw/ESProvider.java
+src/poppaw/Fact.java
+src/poppaw/FactParser.java
+src/poppaw/Answer.java
+src/poppaw/RuleParser.java
+src/poppaw/RuleRepository.java
+src/poppaw/MultipleValue.java
